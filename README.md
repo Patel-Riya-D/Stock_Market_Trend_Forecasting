@@ -39,8 +39,9 @@ One of the most unique features of this dashboard is **AIvi**, an intelligent st
 - Help you decide whether to **BUY, SELL, or HOLD** a stock.  
 - Respond in **real-time**, like a virtual financial advisor.  
 
-📸 *Demo:*  
-![AIvi Assistant Screenshot](assets/chatbot_demo.png)  
+📸 *Demo:* 
+
+![AIvi Assistant Screenshot](https://github.com/Patel-Riya-D/Stock_Market_Trend_Forecasting/blob/main/chatbot.png)
 
 > 🛠️ **Tech Note**: Unlike a rule-based chatbot, AIvi is powered by **LLaMA 3.1 + Groq**, ensuring **natural conversations** with real-time market data from Yahoo Finance and Finnhub.  
 
