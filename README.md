@@ -106,4 +106,3 @@ One of the most unique features of this dashboard is **AIvi**, an intelligent st
 - **Riya Patel** 
   
 📧 Contact: `riya20.surat@gmail.com`
-# Stock_Market_Trend_Forecasting
